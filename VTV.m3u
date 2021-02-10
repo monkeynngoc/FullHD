@@ -9,13 +9,13 @@ https://live.thhp.vn/thp/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243851127.png", Hải Phòng + HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 tvg-id="thvl1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png", Vĩnh Long 1 | 1080P
-https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/ec911b193f99af1533a48460a7b2a1c5/1612961330532/htv_drm/live/thvl1/TV_HD/thvl1_1080p/chunks.m3u8
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/e063aca8df5ea262f57fe2a162703be6/1613055163985/htv_drm/live/thvl1/TV_HD/thvl1_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="thvl2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png", Vĩnh Long 2 | 1080p
-https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/c463beb9629f69b34bf20dfc897609b0/1612961465548/htv_drm/live/thvl2/TV_HD/thvl2_1080p/chunks.m3u8
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/2f6d851a410c3fe07c1abe6cc2e1f070/1613055250980/htv_drm/live/thvl2/TV_HD/thvl2_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="thvl3" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png", Vĩnh Long 3 HD
-https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/709a0e92c0ab3593893a9fd4d9f3e952/1612961520630/htv_drm/live/thvl3/TV_HD/thvl3_720p/chunks.m3u8
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/56e8201b4dc18f4899856abed3722444/1613055284329/htv_drm/live/thvl3/TV_HD/thvl3_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="thvl4" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png", Vĩnh Long 4 HD
-https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/1132b0e839065f2f9522add6a37a9127/1612961549879/htv_drm/live/thvl4/TV_HD/thvl4_1080p/chunks.m3u8
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/e858fae5c1445f3fee6a4d1c47241483/1613055305149/htv_drm/live/thvl4/TV_HD/thvl4_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="sctv1" group-title="SCTV" tvg-logo="https://i.ibb.co/7WG7TzC/sctv1logobyvovanloc.png", SCTV1 HD - Hài
 https://chungxda.github.io/m3u8/SCTV/SCTV1HD.m3u8
